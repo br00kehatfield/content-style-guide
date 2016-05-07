@@ -3,7 +3,7 @@ title: Writing for Social Media
 layout: article
 ---
 
-We use social media to build relationships with MailChimp customers and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels. This section lays out how we strike that delicate balance.
+We use social media to build relationships with MailChimp users and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels. This section lays out how we strike that delicate balance.
 
 ## Basics
 
