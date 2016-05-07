@@ -3,7 +3,7 @@ title: Writing for Social Media
 layout: article
 ---
 
-We use social media to build relationships with MailChimp users and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels. This section lays out how we strike that delicate balance.
+We use social media to build relationships with MailChimp customers and share all the cool stuff we do. But it also creates opportunities to say the wrong thing, put off customers, and damage our brand. So we’re careful and deliberate in what we post to our social channels. This section lays out how we strike that delicate balance.
 
 ## Basics
 
@@ -18,7 +18,7 @@ These channels are all managed by the marketing team. We also have a few team-sp
 
 ## Guidelines
 
-Our writing for social media should generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) sections. Here are some additional pointers, too.
+Our writing for social media should generally follow the style points outlined in the [Voice and tone](/02-voice-and-tone.html.md) and [Grammar and mechanics](/04-grammar-and-mechanics.html.md) [sections] (http://facebook.com) . Here are some additional pointers, too.
 
 ### Write short, but smart
 
